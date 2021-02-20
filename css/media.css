@@ -1,0 +1,1269 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 320px) {
+  /* */
+  .logo img {
+    width: 85%;
+  }
+  .menu ul li a {
+    letter-spacing: 0px;
+    /* margin-right: 10px; */
+  }
+  .menu ul li a {
+    margin-left: 10px;
+  }
+  .menu ul li a:hover {
+    background-color: transparent !important;
+    transform: none;
+    color: #f2b782 !important;
+  }
+  .in_change {
+    top: 98%;
+    left: 0%;
+    width: 295px;
+  }
+  /* Banner part start */
+  .Banner1 {
+    height: 570px;
+    background-position: left;
+  }
+  .b_text h1 {
+    font-size: 40px;
+    margin-top: 120px;
+  }
+  .b_text h4 {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .b_text button {
+    padding: 5px 25px;
+    font-size: 18px;
+    margin-top: 25px;
+  }
+  .b_text p {
+    font-size: 16px;
+    margin-top: 18px;
+    letter-spacing: 1px;
+    width: 100%;
+  }
+  /* Banner part start */
+  /* Card part start */
+
+  .c_banner {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .c_text h3 {
+    font-size: 25px;
+  }
+  .c_text p {
+    font-size: 18px;
+  }
+  .b_h h1 {
+    font-size: 36px;
+    margin-top: 0px;
+  }
+  .b_h p {
+    font-size: 16px;
+    margin-bottom: 70px;
+  }
+  .c_b button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 40px;
+  }
+  .c_b {
+    margin-top: 25px;
+    margin-bottom: 100px;
+  }
+  /* Card part end */
+  /* Discount oart start */
+  .d_text h1 {
+    width: 100%;
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+    padding-top: 80px;
+    margin-left: 10px;
+  }
+  .d_text p {
+    margin-top: 25px;
+    font-size: 17px;
+    width: 100%;
+    margin-left: 10px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  .d_text button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  .d_text_2 h1 {
+    width: 100%;
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+    padding-top: 80px;
+    margin-left: 10px;
+  }
+  .d_text_2 p {
+    margin-top: 25px;
+    font-size: 17px;
+    width: 100%;
+    margin-left: 10px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  .d_text_2 button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  /* Discount oart end */
+  /* Mountain part start */
+  .Mountain {
+    background-position: center;
+    height: 550px;
+  }
+  .m_text {
+    margin-top: 150px;
+  }
+  .m_text h1 {
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  .m_text p {
+    font-size: 16px;
+  }
+  /* Mountain part end */
+  /* Explore part start */
+  .Explore {
+    background-position: right;
+    height: 400px;
+  }
+  .e_text {
+    margin-top: 150px;
+  }
+  .e_text h1 {
+    font-size: 45px;
+  }
+  .e_text p {
+    font-size: 45px;
+  }
+  /* Explore part emd */
+  /* Testimonial part start */
+  .t_text {
+    display: inline;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .t_testimonial {
+    margin-top: 50px;
+  }
+  .t_testimonial span {
+    font-size: 40px;
+    margin-left: 140px;
+  }
+  .t_text h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .t_text p {
+    font-size: 18px;
+    width: 100%;
+  }
+  .t_testimonial p {
+    font-size: 18px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  /* Footer title start */
+  .footer_tilte {
+    height: 630px;
+  }
+  .f_title {
+    margin-top: 100px;
+    text-align: center;
+    margin-right: 0px;
+  }
+  .f_title h1 {
+    font-size: 45px;
+    margin-bottom: 15px;
+  }
+  .f_title p {
+    font-size: 18px;
+    margin-bottom: 50px;
+  }
+  .ft_input {
+    width: 300px;
+    margin-bottom: 25px;
+  }
+  .ft_button {
+    border-radius: 30px;
+    padding: 15px 30px;
+    font-size: 18px;
+  }
+  /* Footer title end */
+  /* Final Footer Start */
+  .final_footer {
+    height: 1000px;
+  }
+  .last_footer {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .last_footer h3 {
+    font-size: 30px;
+    margin-bottom: 25px;
+  }
+  .last_footer p {
+    font-size: 18px;
+    color: white;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+  }
+  .last_footer_2 {
+    margin-top: 25px;
+    text-align: center;
+  }
+  .last_footer {
+    margin-top: 130px;
+  }
+  .last_footer_2 h3 {
+    margin-bottom: 15px;
+    margin-left: 30px;
+  }
+  .last_footer_2 ul {
+    list-style-type: none;
+    margin-bottom: 0rem;
+  }
+  /* Final Footer end */
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 321px) and (max-width: 575.98px) {
+  .logo img {
+    width: 85%;
+  }
+  .menu ul li a {
+    letter-spacing: 0px;
+    /* margin-right: 10px; */
+  }
+  .menu ul li a {
+    margin-left: 10px;
+  }
+  .menu ul li a:hover {
+    background-color: transparent !important;
+    transform: none;
+    color: #f2b782 !important;
+  }
+  /* Banner part start */
+  .Banner1 {
+    height: 570px;
+    background-position: left;
+  }
+  .b_text h1 {
+    font-size: 32px;
+    margin-top: 120px;
+    width: 62%;
+  }
+  .b_text h4 {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .b_text button {
+    padding: 5px 25px;
+    font-size: 18px;
+    margin-top: 25px;
+  }
+  .b_text p {
+    font-size: 16px;
+    margin-top: 18px;
+    letter-spacing: 1px;
+    width: 85%;
+  }
+  /* Banner part start */
+  /* Card part start */
+
+  .c_banner {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .c_text h3 {
+    font-size: 25px;
+  }
+  .c_text p {
+    font-size: 17px;
+  }
+  .b_h h1 {
+    font-size: 36px;
+    margin-top: 0px;
+  }
+  .b_h p {
+    font-size: 16px;
+    margin-bottom: 70px;
+  }
+  .c_b button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 40px;
+  }
+  .c_b {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin-left: 35px;
+  }
+  /* Card part end */
+  /* Discount oart start */
+  .d_text h1 {
+    width: 82%;
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+    padding-top: 80px;
+    margin-left: 30px;
+  }
+  .d_text p {
+    margin-top: 20px;
+    font-size: 17px;
+    width: 85%;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    margin-left: 30px;
+  }
+  .d_text button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  .d_text_2 h1 {
+    width: 80%;
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+    padding-top: 80px;
+    margin-left: 30px;
+  }
+  .d_text_2 p {
+    margin-top: 25px;
+    font-size: 17px;
+    width: 85%;
+    margin-left: 30px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  .d_text_2 button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  /* Discount oart end */
+  /* Mountain part start */
+  .Mountain {
+    background-position: center;
+    height: 550px;
+  }
+  .m_text {
+    margin-top: 150px;
+  }
+  .m_text h1 {
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  .m_text p {
+    font-size: 16px;
+  }
+  /* Mountain part end */
+  /* Explore part start */
+  .Explore {
+    background-position: right;
+    height: 400px;
+  }
+  .e_text {
+    margin-top: 150px;
+  }
+  .e_text h1 {
+    font-size: 45px;
+  }
+  .e_text p {
+    font-size: 45px;
+  }
+  /* Explore part emd */
+  /* Testimonial part start */
+  .t_text {
+    display: inline;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .t_testimonial {
+    margin-top: 50px;
+  }
+  .t_testimonial span {
+    font-size: 40px;
+    margin-left: 185px;
+  }
+  .t_text h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .t_text p {
+    font-size: 18px;
+    width: 100%;
+  }
+  .t_testimonial p {
+    font-size: 18px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  /* Footer title start */
+  .footer_tilte {
+    height: 630px;
+  }
+  .f_title {
+    margin-top: 100px;
+    text-align: center;
+    margin-right: 0px;
+  }
+  .f_title h1 {
+    font-size: 45px;
+    margin-bottom: 15px;
+  }
+  .f_title p {
+    font-size: 18px;
+    margin-bottom: 50px;
+  }
+  .ft_input {
+    width: 300px;
+    margin-bottom: 25px;
+  }
+  .ft_button {
+    border-radius: 30px;
+    padding: 15px 30px;
+    font-size: 18px;
+  }
+  /* Footer title end */
+  /* Final Footer Start */
+  .final_footer {
+    height: 1000px;
+  }
+  .last_footer {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .last_footer h3 {
+    font-size: 30px;
+    margin-bottom: 25px;
+  }
+  .last_footer p {
+    font-size: 18px;
+    color: white;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+  }
+  .last_footer_2 {
+    margin-top: 25px;
+    text-align: center;
+  }
+  .last_footer {
+    margin-top: 130px;
+  }
+  .last_footer_2 h3 {
+    margin-bottom: 15px;
+    margin-left: 30px;
+  }
+  .last_footer_2 ul {
+    list-style-type: none;
+    margin-bottom: 0rem;
+  }
+  /* Final Footer end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .t_text {
+    display: inline;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .logo img {
+    width: 85%;
+  }
+  .menu ul li a {
+    letter-spacing: 0px;
+    /* margin-right: 10px; */
+  }
+  .menu ul li a {
+    margin-left: 10px;
+  }
+  .menu ul li a:hover {
+    background-color: transparent !important;
+    transform: none;
+    color: #f2b782 !important;
+  }
+  /* Banner part start */
+  .Banner1 {
+    height: 570px;
+    background-position: left;
+  }
+  .b_text h1 {
+    font-size: 36px;
+    margin-top: 120px;
+    width: 50%;
+  }
+  .b_text h4 {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .b_text button {
+    padding: 5px 25px;
+    font-size: 18px;
+    margin-top: 25px;
+  }
+  .b_h p {
+    font-size: 18px;
+    margin-bottom: 70px;
+  }
+  .b_text p {
+    font-size: 17px;
+    margin-top: 18px;
+    letter-spacing: 1px;
+    width: 56%;
+  }
+  /* Banner part start */
+  /* Card part start */
+
+  .c_banner {
+    width: 300px;
+    height: 500px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+  }
+  .c_text h3 {
+    font-size: 25px;
+  }
+  .c_text p {
+    font-size: 18px;
+  }
+  .b_h h1 {
+    font-size: 36px;
+    margin-top: 0px;
+  }
+  .b_h p {
+    font-size: 16px;
+    margin-bottom: 70px;
+  }
+  .c_b button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 40px;
+  }
+  .c_b {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin-left: 85px;
+  }
+  /* Card part end */
+  /* Discount oart start */
+  .d_text h1 {
+    width: 70%;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    padding-top: 80px;
+    margin-left: 20px;
+  }
+  .d_text p {
+    margin-top: 25px;
+    font-size: 21px;
+    width: 90%;
+    margin-left: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  .d_text button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  .d_text_2 h1 {
+    width: 70%;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    padding-top: 80px;
+    margin-left: 20px;
+  }
+  .d_text_2 p {
+    margin-top: 25px;
+    font-size: 21px;
+    width: 90%;
+    margin-left: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  .d_text_2 button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  /* Discount oart end */
+  /* Mountain part start */
+  .Mountain {
+    background-position: center;
+    height: 550px;
+  }
+  .m_text {
+    margin-top: 150px;
+  }
+  .m_text h1 {
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  .m_text p {
+    font-size: 14px;
+  }
+  /* Mountain part end */
+  /* Explore part start */
+  .Explore {
+    background-position: right;
+    height: 400px;
+  }
+  .e_text {
+    margin-top: 150px;
+  }
+  .e_text h1 {
+    font-size: 45px;
+  }
+  .e_text p {
+    font-size: 45px;
+  }
+  /* Explore part emd */
+  /* Testimonial part start */
+  .t_text {
+    display: inline;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .t_testimonial {
+    margin-top: 50px;
+  }
+  .t_testimonial span {
+    font-size: 40px;
+    margin-left: 250px;
+  }
+  .t_text h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .t_text p {
+    font-size: 18px;
+    width: 100%;
+  }
+  .t_testimonial p {
+    font-size: 18px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  /* Footer title start */
+  .footer_tilte {
+    height: 630px;
+  }
+  .f_title {
+    margin-top: 100px;
+    text-align: center;
+    margin-right: 0px;
+  }
+  .f_title h1 {
+    font-size: 45px;
+    margin-bottom: 15px;
+  }
+  .f_title p {
+    font-size: 18px;
+    margin-bottom: 50px;
+  }
+  .ft_input {
+    width: 300px;
+    margin-bottom: 25px;
+  }
+  .ft_button {
+    border-radius: 30px;
+    padding: 15px 30px;
+    font-size: 18px;
+  }
+  /* Footer title end */
+  /* Final Footer Start */
+  .final_footer {
+    height: 1000px;
+  }
+  .last_footer {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .last_footer h3 {
+    font-size: 30px;
+    margin-bottom: 25px;
+  }
+  .last_footer p {
+    font-size: 18px;
+    color: white;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+  }
+  .last_footer_2 {
+    margin-top: 25px;
+    text-align: center;
+  }
+  .last_footer {
+    margin-top: 130px;
+  }
+  .last_footer_2 h3 {
+    margin-bottom: 15px;
+    margin-left: 30px;
+  }
+  .last_footer_2 ul {
+    list-style-type: none;
+    margin-bottom: 0rem;
+  }
+  /* Final Footer end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .logo img {
+    width: 85%;
+  }
+  .menu ul li a {
+    letter-spacing: 0px;
+    /* margin-right: 10px; */
+  }
+  .menu ul li a {
+    margin-left: 10px;
+  }
+  .menu ul li a:hover {
+    background-color: transparent !important;
+    transform: none;
+    color: #f2b782 !important;
+  }
+  /* Banner part start */
+  .Banner1 {
+    height: 570px;
+    background-position: left;
+  }
+  .b_text h1 {
+    font-size: 47px;
+    margin-top: 120px;
+    width: 50%;
+  }
+  .b_text h4 {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .b_text button {
+    padding: 5px 25px;
+    font-size: 18px;
+    margin-top: 25px;
+  }
+  .b_text p {
+    font-size: 16px;
+    margin-top: 18px;
+    letter-spacing: 1px;
+    width: 50%;
+  }
+  /* Banner part start */
+  /* Card part start */
+
+  .c_banner {
+    width: 300px;
+    height: 500px;
+    margin-bottom: 50px;
+    align-items: center;
+    margin-left: 190px;
+  }
+  .c_text h3 {
+    font-size: 25px;
+  }
+  .c_text p {
+    font-size: 18px;
+  }
+  .b_h h1 {
+    font-size: 36px;
+    margin-top: 0px;
+  }
+  .b_h p {
+    font-size: 18px;
+    margin-bottom: 70px;
+    width: 70%;
+    margin-left: 90px;
+  }
+  .c_b button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 210px;
+  }
+  .c_b {
+    margin-top: 0px;
+    margin-bottom: 100px;
+  }
+  /* Card part end */
+  /* Discount oart start */
+  .d_text h1 {
+    font-size: 42px;
+    font-weight: bold;
+    color: white;
+    padding-top: 80px;
+    margin-left: 40px;
+    width: 60%;
+  }
+  .d_text p {
+    margin-top: 20px;
+    font-size: 20px;
+    width: 100%;
+    margin-left: 40px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    width: 70%;
+  }
+  .d_text button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  .d_text_2 h1 {
+    font-size: 42px;
+    font-weight: bold;
+    color: white;
+    padding-top: 80px;
+    margin-left: 40px;
+    width: 60%;
+  }
+  .d_text_2 p {
+    margin-top: 20px;
+    font-size: 20px;
+    width: 100%;
+    margin-left: 40px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    width: 70%;
+  }
+  .d_text_2 button {
+    font-size: 18px;
+    width: 230px;
+    height: 65px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  /* Discount oart end */
+  /* Mountain part start */
+  .Mountain {
+    background-position: center;
+    height: 550px;
+  }
+  .m_text {
+    margin-top: 150px;
+  }
+  .m_text h1 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .m_text p {
+    font-size: 20px;
+  }
+  /* Mountain part end */
+  /* Explore part start */
+  .Explore {
+    background-position: right;
+    height: 400px;
+  }
+  .e_text {
+    margin-top: 150px;
+  }
+  .e_text h1 {
+    font-size: 45px;
+  }
+  .e_text p {
+    font-size: 45px;
+  }
+  /* Explore part emd */
+  /* Testimonial part start */
+  .t_text {
+    display: inline;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .t_testimonial {
+    margin-top: 50px;
+  }
+  .t_testimonial span {
+    font-size: 40px;
+    margin-left: 330px;
+  }
+  .t_text h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .t_text p {
+    font-size: 18px;
+    width: 70%;
+    margin-left: 80px;
+  }
+  .t_testimonial p {
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    width: 90%;
+    margin-left: 30px;
+  }
+  /* Footer title start */
+  .footer_tilte {
+    height: 630px;
+  }
+  .f_title {
+    margin-top: 100px;
+    text-align: center;
+    margin-right: 0px;
+  }
+  .f_title h1 {
+    font-size: 45px;
+    margin-bottom: 15px;
+  }
+  .f_title p {
+    font-size: 18px;
+    margin-bottom: 50px;
+    width: 70%;
+    margin-left: 90px;
+  }
+  .ft_input {
+    width: 300px;
+    margin-bottom: 25px;
+  }
+  .ft_button {
+    border-radius: 30px;
+    padding: 15px 30px;
+    font-size: 18px;
+  }
+  /* Footer title end */
+  /* Final Footer Start */
+  .final_footer {
+    height: 1000px;
+  }
+  .last_footer {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .last_footer h3 {
+    font-size: 30px;
+    margin-bottom: 25px;
+  }
+  .last_footer p {
+    font-size: 18px;
+    color: white;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+  }
+  .last_footer_2 {
+    margin-top: 25px;
+    text-align: center;
+  }
+  .last_footer {
+    margin-top: 130px;
+  }
+  .last_footer_2 h3 {
+    margin-bottom: 15px;
+    margin-left: 30px;
+  }
+  .last_footer_2 ul {
+    list-style-type: none;
+    margin-bottom: 0rem;
+  }
+  /* Final Footer end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .menu ul li a {
+    letter-spacing: 0px;
+  }
+  .b_text h1 {
+    font-size: 65px;
+  }
+  .b_text p {
+    font-size: 18.83px;
+    width: 87%;
+  }
+  .c_banner {
+    width: 305px;
+    height: 500px;
+  }
+  .d_text h1 {
+    width: 85%;
+    font-size: 40px;
+    padding-top: 105px;
+  }
+  .d_text p {
+    margin-top: 25px;
+    font-size: 21px;
+    width: 90%;
+  }
+  .d_text button {
+    margin-top: 20px;
+  }
+  .d_text_2 h1 {
+    width: 85%;
+    font-size: 40px;
+    padding-top: 105px;
+  }
+  .d_text_2 p {
+    margin-top: 25px;
+    font-size: 21px;
+    width: 90%;
+  }
+  .d_text_2 button {
+    margin-top: 20px;
+  }
+  .m_text {
+    margin-top: 320px;
+  }
+  .improve {
+    width: 86.666667%;
+  }
+  .e_text p {
+    font-size: 70px;
+  }
+  .t_testimonial p {
+    margin-left: 80px;
+    width: 90%;
+  }
+  .ft_input {
+    margin-bottom: 25px;
+  }
+  .f_title p {
+    font-size: 26px;
+    color: #54524f;
+    margin-bottom: 65px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .m_text {
+    margin-top: 350px;
+  }
+  .t_testimonial span {
+    margin-left: 500px;
+  }
+  .t_testimonial p {
+    font-size: 28px;
+    width: 90%;
+    margin-left: 30px;
+  }
+  .b_text h1 {
+    font-size: 88px;
+  }
+  .b_h p {
+    font-size: 25.08px;
+  }
+  .d_text p {
+    font-size: 24px;
+    width: 90%;
+  }
+  .d_text h1 {
+    width: 87%;
+    font-size: 50px;
+  }
+  .d_text_2 h1 {
+    width: 87%;
+    font-size: 50px;
+  }
+  .d_text_2 p {
+    font-size: 24px;
+    width: 90%;
+  }
+  .t_text p {
+    width: 86%;
+  }
+  .t_testimonial p {
+    font-size: 24px;
+    width: 90%;
+  }
+  .t_testimonial span {
+    margin-left: 440px;
+  }
+  .ft_input {
+    margin-bottom: 25px;
+  }
+}
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) and (max-width: 1699.98px) {
+  .m_text {
+    margin-top: 400px;
+  }
+  .t_testimonial span {
+    margin-left: 500px;
+  }
+  .b_text p {
+    font-size: 24.83px;
+    margin-top: 25px;
+    letter-spacing: 1px;
+    width: 80%;
+  }
+  .t_testimonial p {
+    font-size: 28px;
+    width: 90%;
+    margin-left: 30px;
+  }
+  .Mountain {
+    height: 1375px;
+  }
+  .Explore {
+    height: 1400px;
+  }
+  .footer_tilte {
+    height: 1200px;
+  }
+}
+@media (min-width: 1700px) and (max-width: 1999.98px) {
+  .m_text {
+    margin-top: 450px;
+  }
+  .t_testimonial span {
+    margin-left: 500px;
+  }
+  .b_text p {
+    font-size: 24.83px;
+    margin-top: 25px;
+    letter-spacing: 1px;
+    width: 80%;
+  }
+  .t_testimonial p {
+    font-size: 28px;
+    width: 90%;
+    margin-left: 30px;
+  }
+  .Mountain {
+    height: 1375px;
+  }
+  .Explore {
+    height: 1500px;
+  }
+  .footer_tilte {
+    height: 1250px;
+  }
+}
+
+@media (min-width: 2000px) and (max-width: 2299.98px) {
+  .m_text {
+    margin-top: 500px;
+  }
+  .t_testimonial span {
+    margin-left: 500px;
+  }
+  .b_text p {
+    font-size: 24.83px;
+    margin-top: 25px;
+    letter-spacing: 1px;
+    width: 80%;
+  }
+  .t_testimonial p {
+    font-size: 28px;
+    width: 90%;
+    margin-left: 30px;
+  }
+  .Mountain {
+    height: 1375px;
+  }
+  .Explore {
+    height: 1500px;
+  }
+  .footer_tilte {
+    height: 1300px;
+  }
+}
+@media (min-width: 2300px) and (max-width: 2599.98px) {
+  .m_text {
+    margin-top: 580px;
+  }
+  .t_testimonial span {
+    margin-left: 500px;
+  }
+  .t_testimonial p {
+    font-size: 28px;
+    width: 90%;
+    margin-left: 30px;
+  }
+  .b_text p {
+    font-size: 24.83px;
+    margin-top: 25px;
+    letter-spacing: 1px;
+    width: 80%;
+  }
+  .m_text h1 {
+    font-size: 70px;
+  }
+  .d_text_2 p {
+    margin-top: 30px;
+    font-size: 26px;
+    width: 90%;
+  }
+  .d_text_2 h1 {
+    width: 90%;
+    font-size: 56px;
+  }
+  .m_text p {
+    font-size: 31px;
+    width: 100%;
+  }
+  .Mountain {
+    height: 1375px;
+  }
+  .Explore {
+    height: 1500px;
+  }
+  .footer_tilte {
+    height: 1400px;
+  }
+}
+@media (min-width: 2600px) {
+  .m_text {
+    margin-top: 600px;
+  }
+  .b_text p {
+    font-size: 24.83px;
+    margin-top: 25px;
+    letter-spacing: 1px;
+    width: 80%;
+  }
+  .t_testimonial span {
+    margin-left: 500px;
+  }
+  .t_testimonial p {
+    font-size: 28px;
+    width: 90%;
+    margin-left: 30px;
+  }
+  .Mountain {
+    height: 1375px;
+  }
+  .Explore {
+    height: 1500px;
+  }
+  .footer_tilte {
+    height: 1500px;
+  }
+}
